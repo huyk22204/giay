@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Nike Air Max",
+        "brand": "Nike",
+        "price": 120,
+        "image": "https://example.com/nike-air-max.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Adidas Ultraboost",
+        "brand": "Adidas",
+        "price": 150,
+        "image": "https://example.com/adidas-ultraboost.jpg"
+    }
+]
